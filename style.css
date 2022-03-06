@@ -1,0 +1,61 @@
+body{
+   background-image: url("Paylatsu.jpg");
+  
+}
+#ff{
+   
+   color: red;
+}
+
+header{
+	background-image: url('ppp.jpg');
+    background-image: url("jhjj.jpg");
+	background-size: contain;
+	padding: 30px;
+	padding-top: 250px;
+	text-align: center;
+	background-position: center;
+	
+}
+
+
+nav{
+	background: blue;
+	margin: 0;
+	position:  sticky;
+	top: 0;
+}
+
+ul{
+	margin: 0;
+	/*padding: 0px;*/
+}
+li{
+	list-style-type: none;
+	display: inline-block;
+	background:   orange;
+	color: white;
+	padding: 10px; 
+	transition:0,4s
+}
+
+
+li:hover{
+	background:green;
+
+}
+
+h1{
+    color: red;
+}
+table{
+    color: red;
+}
+
+img{
+    width: 500px;
+    height: 350px;
+}
+.hayk{
+    color: blueviolet;
+}
